@@ -1,4 +1,4 @@
-1. Introduction to M.2 Electro-Mechanical 
+* Introduction to M.2 Electro-Mechanical 
 Specifications
 The M.2 form factor is used for Mobile Add-In cards. The M.2 is a natural transition from the Mini 
 Card and Half-Mini Card to a smaller form factor in both size and volume. The M.2 is a family of 
@@ -10,7 +10,7 @@ The M.2 comes in two main formats:
  Connectorized 
  Soldered-down 
 
-2.1. Overview
+* Overview
 This specification defines a family of M.2 modules and the corresponding system interconnects 
 based on a 75 position edge card connection scheme or a derivation of the card edge and a soldered￾down scheme for system interfaces. 
 The M.2 family comprised of several module sizes and designated by the following names (see 
