@@ -3,8 +3,9 @@ The only footprint that has been verified with a PCB is the B-Key footprint. Tho
 
 
 
-<img width="310" height="574" alt="Screenshot 2026-10-17 220224" src="https://github.com/user-attachments/assets/7658f317-553f-4c69-9f7f-9e306d42d7ef" />
+
 <img width="713" height="483" alt="Screenshot 2026-10-17 213512" src="https://github.com/user-attachments/assets/a18ea1f0-433e-424b-abad-32ecee582813" />
+<img width="310" height="574" alt="Screenshot 2026-10-17 220224" src="https://github.com/user-attachments/assets/7658f317-553f-4c69-9f7f-9e306d42d7ef" />
 <img width="128" height="547" alt="Screenshot 2026-10-17 215449" src="https://github.com/user-attachments/assets/1c1d4d4f-4383-4960-b68e-baea7bde5674" />
 <img width="298" height="592" alt="Screenshot 2026-10-17 214806" src="https://github.com/user-attachments/assets/aff262b3-ae7f-44f7-b7ba-01020bc073ee" />
 <img width="215" height="580" alt="Screenshot 2026-10-17 214632" src="https://github.com/user-attachments/assets/fb6e0347-4a02-4631-89ff-acf48637356e" />
