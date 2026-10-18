@@ -14,7 +14,7 @@ The M.2 comes in two main formats:
 This specification defines a family of M.2 modules and the corresponding system interconnects 
 based on a 75 position edge card connection scheme or a derivation of the card edge and a soldered￾down scheme for system interfaces. 
 The M.2 family comprised of several module sizes and designated by the following names (see 
-Figure 2):
+Pictures attached):
  Type 1630
  Type 2230
  Type 2242
