@@ -9,7 +9,7 @@ Card used today in mobile platforms in preparation for the very thin computing p
 The M.2 comes in two main formats: 
  Connectorized 
  Soldered-down 
-
+"This library only show Connecorized M.2"
 * Overview
 This specification defines a family of M.2 modules and the corresponding system interconnects 
 based on a 75 position edge card connection scheme or a derivation of the card edge and a soldered￾down scheme for system interfaces. 
