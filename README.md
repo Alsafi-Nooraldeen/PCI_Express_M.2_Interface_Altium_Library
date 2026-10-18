@@ -15,14 +15,14 @@ This specification defines a family of M.2 modules and the corresponding system 
 based on a 75 position edge card connection scheme or a derivation of the card edge and a soldered￾down scheme for system interfaces. 
 The M.2 family comprised of several module sizes and designated by the following names (see 
 Pictures attached):
- Type 1630
- Type 2230
- Type 2242
- Type 2260
- Type 2280 
- Type 3030
- Type 3042
- Type 22110 
+- Type 1630
+- Type 2230
+- Type 2242
+- Type 2260
+- Type 2280 
+- Type 3030
+- Type 3042
+- Type 22110 
 
 
 <img width="823" height="394" alt="Screenshot 2026-10-17 220838" src="https://github.com/user-attachments/assets/ffe737ed-dc71-475e-b9b2-55a729ec47c7" />
